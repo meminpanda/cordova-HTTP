@@ -1,4 +1,7 @@
 # Changelog
+## v1.1.2
+- Fixed android not adding server headers
+- Fixed error response on ios
 
 ## v1.1.1
 - Fixed SSL Pinning not working for postJson method for ios
