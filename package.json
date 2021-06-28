@@ -1,7 +1,32 @@
 {
-  "name": "cordova-plugin-http",
-  "version": "1.2.0",
-  "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+  "_from": "git+https://github.com/Switch168/cordova-HTTP.git",
+  "_id": "cordova-plugin-http@1.1.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-http",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/Switch168/cordova-HTTP.git",
+    "rawSpec": "https://github.com/Switch168/cordova-HTTP.git",
+    "saveSpec": "git+https://github.com/Switch168/cordova-HTTP.git",
+    "fetchSpec": "https://github.com/Switch168/cordova-HTTP.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/Switch168/cordova-HTTP.git#cc873b371171327d1ac4947feb8692b50f45961f",
+  "_spec": "https://github.com/Switch168/cordova-HTTP.git",
+  "_where": "C:\\Users\\meminpanda\\Documents\\Sites\\lifehound-hybrid",
+  "author": {
+    "name": "Wymsee"
+  },
+  "bugs": {
+    "url": "https://github.com/wymsee/cordova-HTTP/issues"
+  },
+  "bundleDependencies": false,
   "cordova": {
     "id": "cordova-plugin-http",
     "platforms": [
@@ -9,10 +34,15 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wymsee/cordova-HTTP.git"
-  },
+  "deprecated": false,
+  "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/wymsee/cordova-HTTP#readme",
   "keywords": [
     "cordova",
     "device",
@@ -20,16 +50,11 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
-  "author": "Wymsee",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wymsee/cordova-HTTP/issues"
+  "name": "cordova-plugin-http",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wymsee/cordova-HTTP.git"
   },
-  "homepage": "https://github.com/wymsee/cordova-HTTP#readme"
+  "version": "1.1.0"
 }
